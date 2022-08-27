@@ -2,7 +2,7 @@ baseURL = "https://iaintait.github.io/"
 publishDir = "docs"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Hugo Hermit"
+title = "Iain Tait"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -15,7 +15,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "John Doe"
+  name = "Iain Tait"
 
 [blackfriday]
   # hrefTargetBlank = true
